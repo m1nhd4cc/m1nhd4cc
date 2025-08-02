@@ -9,7 +9,6 @@ With a passion for cybersecurity and a desire to grow professionally, I am activ
 
 ##  GitHub Stats
 
-![m1nhd4cc's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1nhd4cc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nhd4cc&layout=compact&theme=radical)
 
 
